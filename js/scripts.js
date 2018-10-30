@@ -12,8 +12,6 @@ $(document).ready(function(){
 			$("#carouselButton").children("span").addClass('fa-pause');                    
 		}
 	});
-	
-	<!--Assignment 4 scripts-->
 	$("#loginLink").click(function() {
 		$("#loginModal").modal('toggle');
 	});
